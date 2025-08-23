@@ -1,6 +1,6 @@
 #pragma once
 
-#include "../jk_rs485_bms.h"
+//#include "../jk_rs485_bms.h"
 #include "esphome/core/component.h"
 #include "esphome/components/number/number.h"
 
