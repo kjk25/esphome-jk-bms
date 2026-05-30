@@ -2,8 +2,6 @@
 
 //#include "../jk_rs485_bms.h"
 #include "esphome/core/component.h"
-#include "esphome/components/switch/switch.h"
-
 //#include "esphome/core/log.h"
 
 
