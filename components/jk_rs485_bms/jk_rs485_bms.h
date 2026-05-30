@@ -1,6 +1,6 @@
 #pragma once
 
-#include "switch/jk_switch.h"
+#include "jk_switch.h"
 #include "number/jk_number.h"
 #include "esphome/components/binary_sensor/binary_sensor.h"
 #include "esphome/components/sensor/sensor.h"
