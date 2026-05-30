@@ -1,4 +1,4 @@
-#include "switch/jk_switch.h"
+#include "jk_switch.h"
 
 namespace esphome {
 namespace jk_rs485_bms {
